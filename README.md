@@ -4,6 +4,10 @@
 To design and implement a Python function for calculating addition of two numbers, integrate it with a chat completion system utilizing the function-calling feature of a large language model (LLM).
 
 ### PROBLEM STATEMENT:
+The problem aims to integrate a mathematical calculation function with an LLM using function calling.
+A Python function add_numbers(a, b) is created to compute the sum of two numbers.
+The LLM interprets user queries and triggers this function with the given inputs.
+This demonstrates how LLMs can combine natural language understanding with precise computations.
 
 ### DESIGN STEPS:
 
